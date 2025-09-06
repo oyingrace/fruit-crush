@@ -23,7 +23,7 @@ export default function RootLayout({
         {/* Navbar is included on all pages */}
         <div className="relative flex min-h-screen flex-col">
           <WalletProvider>
-            <Navbar />
+            <Navbar /> 
             <main className="flex-1">
               {children}
             </main>
