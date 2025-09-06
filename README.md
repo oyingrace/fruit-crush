@@ -142,4 +142,4 @@ If you encounter any issues or have questions:
 
 **Happy Gaming! 🎮✨**
 
-*Built with ❤️ for the Web3 gaming community*
+*Built with ❤️*
