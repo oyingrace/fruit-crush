@@ -1,6 +1,8 @@
-# 🍎 Fruit Crush - Web3 Candy Crush Game
+# 🍎 Fruit Crush - Web3 Fruit Crush Game
 
 A modern Celo, Web3-enabled Candy Crush-style game built with Next.js and React. Players can earn tokens by playing the game and claiming rewards through smart contracts on the Celo blockchain.
+
+![Fruit Crush Game](apps/web/public/picture.png)
 
 ## 🎮 Game Features
 
